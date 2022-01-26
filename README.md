@@ -5,7 +5,7 @@ Baptiste, 19, french student in computer science. </br>
 Currently Studying at : Université Clermont-Auvergne, Aubière, France. </br>
 District : IUT Informatique.
 
-## Social media profiles
+### Social media profiles
 <p align="left">
 <a href="https://www.instagram.com/dvgainzz/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram profile" height="30" width="40" /></a> 
   To see my sport profile </br></br>
@@ -16,8 +16,8 @@ District : IUT Informatique.
 </p>
   
  
-## My stats
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=baptistemrtl&show_icons=true&theme=radical)
+### My stats
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistemrtl)]
 
 
 <!--
