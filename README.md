@@ -1,10 +1,24 @@
-### Hi there👋Let me introduce myself :
 
-Baptiste, 19, french student in computer science.
-Currently Studying at : Université Clermont-Auvergne, Aubière, France.
+### 🗨️ Let me introduce myself :
+
+Baptiste, 19, french student in computer science. </br>
+Currently Studying at : Université Clermont-Auvergne, Aubière, France. </br>
 District : IUT Informatique.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+## Social media profiles
+<p align="left">
+<a href="https://www.instagram.com/dvgainzz/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram profile" height="30" width="40" /></a> 
+  To see my sport profile </br></br>
+<a href="https://open.spotify.com/user/jxa0hzop65exfxpp8m3vw8ele?si=556974c1884e4c82"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
+  To see what i used to listen </br></br>
+<a href="https://www.linkedin.com/in/baptiste-martel-2627ab220/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+  To check my profesional profile </br></br>
+</p>
+  
+ 
+## My stats
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=baptistemrtl&show_icons=true&theme=radical)
+
 
 <!--
 **baptistemrtl/baptistemrtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
