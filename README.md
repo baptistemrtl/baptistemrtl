@@ -2,8 +2,8 @@
 ### 🗨️ Let me introduce myself :
 
 Baptiste, 19, french student in computer science. </br>
-Currently Studying at : Université Clermont-Auvergne, Aubière, France. </br>
-District : IUT Informatique.
+Currently Studying at : ISIMA INP, Aubière, France
+Last diploma : 2-years university technical diploma at Université Clermont-Auvergne, Aubière, France. </br>
 
 ### Social media profiles
 <p align="left">
