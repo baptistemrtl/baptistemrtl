@@ -4,10 +4,7 @@
 Baptiste, french student in computer science. </br>
 Currently following a Master of Science in Computer Science and Engineering at : ISIMA INP, Aubière, France </br>
 Last diploma : 2-years university technical diploma at Université Clermont-Auvergne, Aubière, France. </br></br>
-Great sports enthusiast. High level tennis practice for 11 years and football for 12 years. But for 4 years now, I have taken a
-passion for bodybuilding, which has allowed me to acquire a thorough knowledge of the human body: its reaction to muscular
-work, and the nutritionnecessary for its proper functioning. Outside of sports, I am very interested in fashion, especially
-independent brands, because they are real examples of entrepreneurship and creativity.
+Great sports enthusiast, currently practicing bodybuilding and MMA (Mixed Martial Arts)
 
 ### Social media profiles
 <p align="left">
