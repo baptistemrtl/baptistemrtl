@@ -1,14 +1,3 @@
----
-title: "Baptiste Martel - DevOps Engineer"
-author: "Baptiste Martel"
-date: "2025"
-theme: "black"
-transition: "slide"
-revealOptions:
-  slideNumber: true
-  transition: "convex"
----
-
 # 👋 Hello, I'm Baptiste Martel
 ## 🚀 DevOps Engineer in Training
 
@@ -66,8 +55,5 @@ revealOptions:
 
 ## 📧 Contact Me
 - 📌 [LinkedIn](https://linkedin.com/in/baptiste-martel/)
-- 📩 **bapt.martel63@gmail.com**
-- 📞 **06 68 18 10 63**
 
 ---
-## 🎬 Thanks for Watching!
