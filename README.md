@@ -15,12 +15,9 @@
 
 ## 💼 Work Experience
 
-### **DevOps - Alternance @ Limagrain** (2024 - 2025)
----
-### **Full-Stack Developer - Alternance @ Lojelis** (2022 - 2024)
----
-### **Backend Developer - Internship @ Michelin** (2022)  
----
+- **DevOps - Alternance @ Limagrain** (2024 - 2025)
+- **Full-Stack Developer - Alternance @ Lojelis** (2022 - 2024)
+- **Backend Developer - Internship @ Michelin** (2022)  
 
 ## 🏆 School Projects
 
