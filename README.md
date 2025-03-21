@@ -1,37 +1,73 @@
+---
+title: "Baptiste Martel - DevOps Engineer"
+author: "Baptiste Martel"
+date: "2025"
+theme: "black"
+transition: "slide"
+revealOptions:
+  slideNumber: true
+  transition: "convex"
+---
 
-Baptiste Martel, bapt.martel63@gmail.com </br> </br>
-### 🗨️ Let me introduce myself :
-Student in Computer Science and engineering. Experienced Software Developer adept in allstages of advanced
-development. Knowledgeable in user interface, testing, and debugging processes. Proficient in an assortment of 
-technologies, including Java, ASP.NET, C#, Angular, and Microsoft SQL Server. Able to effectively self-manage during
-projects, as well as collaborate in a team setting. I am confident I have the qualifications and the mindset to successfully 
-fulfill your requirements.
- </br>
-Currently following a Master of Science in Computer Science and Engineering at : ISIMA INP, Aubière, France </br>
-Last diploma : 2-years university technical diploma at Université Clermont-Auvergne, Aubière, France. </br></br>
-Great sports enthusiast, currently practicing bodybuilding and MMA (Mixed Martial Arts)
+# 👋 Hello, I'm Baptiste Martel
+## 🚀 DevOps Engineer in Training
 
-### Social media profiles
-<p align="left">
-<a href="https://open.spotify.com/user/jxa0hzop65exfxpp8m3vw8ele?si=556974c1884e4c82"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-  To see what I used to listen </br></br>
-<a href="https://www.linkedin.com/in/baptiste-martel-2627ab220/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-  To check my profesional profile </br></br>
-</p>
-  
+---
 
+## 🎓 Education
 
-<!--
-**baptistemrtl/baptistemrtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **ISIMA, Aubière** (2022 - 2025)  
+  _École d’ingénieur en informatique sous statut d'apprenti_
+- **IUT Clermont Auvergne** (2020 - 2022)  
+  _DUT Génie informatique_  
+  - 🏫 Exchange program at Université du Québec à Chicoutimi
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+
+### **DevOps - Alternance @ Limagrain** (2024 - 2025)
+- 🛠️ Built a new integration stack for improved interoperability
+- 🏗️ Deployed an API Manager with Kubernetes (PoC)
+- 📂 Implemented an MFT tool for simple file transfers
+- 🔄 Migrated initial data flows to test the stack
+
+---
+
+### **Full-Stack Developer - Alternance @ Lojelis** (2022 - 2024)
+- 📊 Designed database schema using UML on SQL Server
+- 🏗️ Developed a parking management tool with ASP.NET & Angular
+- 🔄 Automated parking space allocation with custom algorithms
+- 📅 Managed Agile sprints & user stories on Azure DevOps
+
+---
+
+### **Backend Developer - Internship @ Michelin** (2022)  
+- 🖥️ Analyzed an open-source telemetry dashboard
+- 🔗 Integrated Java scripts with MQTT protocol
+- ☁️ Connected Azure EventHub for real-time data processing
+- 📊 Ensured data integrity & consistency in telemetry analysis
+
+---
+
+## 🏆 School Projects
+
+### **CarSafe - IoT Emergency Call Device**
+- 🏎️ Simulated driving data using BeamNG
+- 📡 Differentiated accidents from emergency maneuvers
+- 🔍 Proved technological feasibility through PoT testing
+
+### **DriveSafe - AI Racing Game**
+- 🎮 Developed AI using Reinforcement Learning in C++
+- 🏗️ Managed project timelines using Gantt charts
+- 📈 Performed risk analysis for project delivery
+
+---
+
+## 📧 Contact Me
+- 📌 [LinkedIn](https://linkedin.com/in/baptiste-martel/)
+- 📩 **bapt.martel63@gmail.com**
+- 📞 **06 68 18 10 63**
+
+---
+## 🎬 Thanks for Watching!
